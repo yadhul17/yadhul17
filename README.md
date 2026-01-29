@@ -54,23 +54,17 @@ I am a passionate Full Stack Developer specializing in building robust, scalable
 
 
 
-### 📊 My GitHub Stats
+## 📊 GitHub Activity
 
-
-
-<p align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yadhul17&show_icons=true&theme=radical&hide_border=true" alt="Yadhul's GitHub Stats" />
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yadhul17&theme=tokyonight" />
 </p>
 
-
-
-<p align="left">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhul17&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yadhul17&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yadhul17&theme=tokyonight" height="165"/>
 </p>
+
 
 
 
@@ -97,3 +91,4 @@ I am a passionate Full Stack Developer specializing in building robust, scalable
 ### ⚡ Fun Fact
 
 I'm a developer from the Cultural Capital of Kerala (Thrissur)! I believe that clean code is just as important as a beautiful UI.
+
