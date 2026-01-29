@@ -80,7 +80,7 @@ I am a passionate Full Stack Developer specializing in building robust, scalable
 
 - 💬 Ask me about **Django Views, Templating, and Python Automation**.
 
-- 📫 Let's connect: [LinkedIn](your-linkedin-link-here) | [Email](mailto:your-email@example.com)
+- 📫 Let's connect: [LinkedIn](your-linkedin-link-here) | [Email](yadhuljayakumar@gmail.com)
 
 
 
